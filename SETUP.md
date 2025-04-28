@@ -20,19 +20,13 @@ git clone https://github.com/kohei3110/ml-hol.git
 cd ml-hol
 ```
 
-2. パッケージをインストールします。
-
-```bash
-pip install -r requirements.txt
-```
-
-3. VS Code を GUI から起動します。CUI で起動する場合は、以下のコマンドをターミナルから打ちます。
+2. VS Code を GUI から起動します。CUI で起動する場合は、以下のコマンドをターミナルから打ちます。
 
 ```bash
 code .
 ```
 
-4. VS Code 左下の青背景に白い字で「> <」のボタンを押下し、「Reopen in Container」を選択し、Dev Container を起動します。
+3. VS Code 左下の青背景に白い字で「> <」のボタンを押下し、「Reopen in Container」を選択し、Dev Container を起動します。
 
 ## 環境の検証
 
